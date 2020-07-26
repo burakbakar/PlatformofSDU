@@ -1,0 +1,41 @@
+form
+{    
+}
+h2
+{
+	color:black;
+}
+.container
+{
+    margin:5px 90px;
+    padding:7px 15px;
+	
+}
+input[type=text]
+{
+    display:inline-block;
+    width:18%;
+    margin:6px 0;
+    padding:8px 6px;
+    border: 2px solid green;
+    border-radius:5px;
+    box-sizing: border-box;
+}
+input[type=radio]
+{
+    margin:6px;
+}
+#kbtn
+{
+    margin:12px 0;
+    padding:12px;
+    background-color:#588c7e;
+    color:white;
+    border:none;
+    cursor:pointer;
+    width:18%;
+}
+#kbtn:hover
+{
+    opacity:0.9;
+}
